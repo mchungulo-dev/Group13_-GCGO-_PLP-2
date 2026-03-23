@@ -1,4 +1,3 @@
-#MEMBER 1 — Configuration & Database Handler  
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║   GreenFinger Inventory Manager  v1.0                        ║
@@ -137,3 +136,4 @@ if __name__ == "__main__":
         print(f"    DB file: {DB_FILE}")
     else:
         print("❌  Database setup failed. Check error above.")
+
