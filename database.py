@@ -137,4 +137,3 @@ if __name__ == "__main__":
         print(f"    DB file: {DB_FILE}")
     else:
         print("❌  Database setup failed. Check error above.")
-
