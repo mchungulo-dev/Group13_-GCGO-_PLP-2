@@ -21,7 +21,7 @@ import os
 from datetime import date
 
 # Import shared config from Member 1
-from member1_database import LOW_STOCK_THRESHOLD
+from database import LOW_STOCK_THRESHOLD
 
 
 # ══════════════════════════════════════════════
