@@ -97,9 +97,4 @@ if __name__ == "__main__":
         print("Database setup complete. Tables ready.")
         print(f"DB file: {DB_FILE}")
     else:
-<<<<<<< HEAD
         print("❌  Database setup failed. Check error above.")
-=======
-        print("Database setup failed. Check error above.")
-
->>>>>>> 0b57ec4132030dd1e3ed2219ca089771dcc2fd40
